@@ -1,1 +1,21 @@
+SETTING UP A DIRECTORY 
+make a directory -> mkdir environments
+go to that directory  -> cd environments
+
+
+Making Virtual Environments  
+
+use ->Virtual environments enable you to have an isolated space on your server
+for Python projects, ensuring that each of your projects can have its own
+set of dependencies that won’t disrupt any of your other projects.
+
+how to create it in a directory ->python -m venv my_env   //my_env is the name of the environment 
+how to check v_env is working -> ls my_env (this will show all the changes made to it )
+
+
+Creating files -> 
+
+
+
+
 
