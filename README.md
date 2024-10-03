@@ -1,2 +1,2 @@
 # Machine-Learning
-basi techniques and learning 
+best techniques and learning 
